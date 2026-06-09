@@ -71,8 +71,62 @@ namespace Tarea1
         //tarea16.tarea16();
 
         //Eje 17.
-        Tarea17 tarea17 = new Tarea17();
-        tarea17.tarea17();
+        //Tarea17 tarea17 = new Tarea17();
+        //tarea17.tarea17();
+
+        //Eje 18.
+        //Tarea18 tarea18 = new Tarea18();
+        //tarea18.tarea18();
+
+        //Eje 19.
+        //Tarea19 tarea19 = new Tarea19();
+        //tarea19.tarea19();
+
+        //Eje 20.
+        //Tarea20 tarea20 = new Tarea20();
+        //tarea20.tarea20();
+
+        //Eje 21.
+        //Tarea21 tarea21 = new Tarea21();
+        //tarea21.tarea21();
+
+        //Eje22.
+        //Tarea22 tarea22 = new Tarea22();
+        //tarea22.tarea22();
+
+        //Eje 23.
+        //Tarea23 tarea23 = new Tarea23();
+        //tarea23.tarea23();
+
+        //Eje 24.
+        //Tarea24 tarea24 = new Tarea24();
+        //tarea24.tarea24();
+
+        //Eje25.
+        //Tarea25 tarea25 = new Tarea25();
+        //tarea25.tarea25();
+
+        //Eje 26.
+        //Tarea26 tarea26 = new Tarea26();
+        //tarea26.tarea26();
+
+        //Eje 27.
+        //Tarea27 tarea27 = new Tarea27();
+        //tarea27.tarea27();
+
+        //Eje 28.
+        //Tarea28 tarea28 = new Tarea28();
+        //tarea28.tarea28();
+
+        //Eje 29.
+        //Tarea29 tarea29 = new Tarea29();
+        //tarea29.tarea29();
+
+        //Eje 30.
+        //Tarea30 tarea30 = new Tarea30();
+        //tarea30.tarea30();
+
+
 
         }
     }
